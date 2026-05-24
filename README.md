@@ -1,5 +1,5 @@
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=c,python,bash,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,bash,js&theme=dark)](https://skillicons.dev)
 
 ## Tools & Platforms
-[![My Tools](https://skillicons.dev/icons?i=docker,linux,postgres,aws,azure,apache,github,fastapi,vscode,nodejs&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=docker,linux,postgres,aws,azure,github,fastapi,vscode,nodejs&theme=dark)](https://skillicons.dev)
